@@ -4,6 +4,7 @@ figure;
 %ColorRand = rand(numTracks,3);
 %vidObj = VideoWriter('test.avi');
 %vidObj.FrameRate = 15;
+% One more comment added
 for frameIte = 1:vidRead.NumberOfFrames
     imshow(uint8(vidFrames(:,:,:,frameIte)));
     hold on;
