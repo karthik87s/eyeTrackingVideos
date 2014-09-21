@@ -1,5 +1,6 @@
 ColorRand = [1 0 0; 0 1 0];
 figure;
+%Adding the comment to this file
 %ColorRand = rand(numTracks,3);
 %vidObj = VideoWriter('test.avi');
 %vidObj.FrameRate = 15;
